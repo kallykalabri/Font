@@ -1,8 +1,0 @@
-{
-  "name": "Minecraft Font Theme",
-  "version": "1.0.0",
-  "author": "Custom",
-  "description": "Applies Minecraft font-face rendering over mobile elements.",
-  "custom_css": "@font-face { font-family: 'Minecraftia'; src: url('https://jsdelivr.net') format('truetype'); } body, *, [class^='chatContent_'] { font-family: 'Minecraftia', sans-serif !important; }",
-  "unsafe_font_url": "https://jsdelivr.net"
-}
