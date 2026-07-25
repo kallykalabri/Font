@@ -1,0 +1,14 @@
+{
+  "name": "Arimo",
+  "spec": 1,
+  "scale": 1.0,
+  "entries": [
+    {
+      "font": "Arimo-Regular.ttf",
+      "bold": "Arimo-Bold.ttf",
+      "italic": "Arimo-Italic.ttf",
+      "boldItalic": "Arimo-BoldItalic.ttf",
+      "replace": "*"
+    }
+  ]
+}
