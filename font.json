@@ -1,0 +1,17 @@
+{
+  "name": "Arimo Full Family",
+  "spec": 1,
+  "scale": 1.0,
+  "entries": [
+    {
+      "main": "Arimo-Regular.ttf",
+      "bold": "Arimo-Bold.ttf",
+      "italic": "Arimo-Italic.ttf",
+      "boldItalic": "Arimo-BoldItalic.ttf"
+    },
+    {
+      "main": "Arimo-Bold.ttf",
+      "bold": "Arimo-ExtraBold.ttf"
+    }
+  ]
+}
